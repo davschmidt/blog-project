@@ -1,0 +1,44 @@
+body {
+  font-family: source sans pro;
+  border: 20px solid #bdc3c7;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 700px;
+  width: 80%;
+  background: url("https://theawesomedaily.com/wp-content/uploads/2018/07/cool-backgrounds-feat-1-620x350.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.date {
+ color: #3498db;
+ letter-spacing: 0.2rem;
+ text-transform: uppercase;
+}
+
+.first {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+h2 {
+  color: #2c3e50;
+  font-size: 2.0rem;
+}
+
+p {
+  color: white;
+  font-size: 18px;
+}
+
+.post {
+  margin-bottom: 20px;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
